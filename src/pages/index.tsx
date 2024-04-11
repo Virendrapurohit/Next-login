@@ -85,7 +85,7 @@ const Home = () => {
         <link rel="icon" href="/Login.logo-removebg-preview.png" />
       </Head>
       <Row>
-        <Col lg={24}>
+        <Col lg={24} xs={24}>
           <nav style={{ backgroundColor: '#505860', padding: '16px 40px', textAlign: 'end', }}>
             <Image style={{ float: 'left', margin: '-8px 10px' }}
               src="/Login.logo-removebg-preview.png"
